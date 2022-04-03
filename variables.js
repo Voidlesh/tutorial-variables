@@ -1,3 +1,5 @@
+// how to use variables in JS
+
 const i = 'hello world';
 console.log(i) //Constant Variable can't be reassigned hence the name const.
 let i = '';
